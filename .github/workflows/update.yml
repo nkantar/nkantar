@@ -24,7 +24,7 @@ jobs:
       with:
         repository: nkantar/nkantar.com
         path: nk
-        ref: master
+        token: ${{ secrets.GitHub_PAT }}
 
     - name: configure git
       run: |
@@ -36,6 +36,9 @@ jobs:
       run: |
         cp nk/input/about/index.md main/README.md
         # | tail -n +5 > README.md
+
+    - name: add, commit, push
+      run: |
         git add README.md
         git commit -m "Updating" --allow-empty
         git push origin master
