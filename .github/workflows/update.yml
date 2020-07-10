@@ -36,9 +36,14 @@ jobs:
         cp nkc/input/about/index.md nk/README.md
         sed -i "1,3d" nk/README.md
 
-    - name: add, commit, push
+    - name: check if there are changes
       run: |
         cd nk
+        GDIFF=`git diff`
+
+    - name: add, commit, push
+      if: ${{ env.GDIFF }}
+      run: |
         git add README.md
         git commit -m "Updating" --allow-empty
         git push origin master
