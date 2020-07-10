@@ -37,14 +37,14 @@ jobs:
         sed -i "1,3d" nk/README.md
 
     - name: check if there are changes
+      env:
+        GDIFF: empty
       run: |
         cd nk
         export GDIFF=`git diff`
 
     - name: add, commit, push
-      env:
-        EMPTY_STRING: ""
-      if: ${{ env.GDIFF != env.EMPTY_STRING }}
+      if: ${{ env.GDIFF == 'empty' }}
       run: |
         git add README.md
         git commit -m "Updating" --allow-empty
