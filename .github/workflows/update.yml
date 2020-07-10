@@ -22,7 +22,7 @@ jobs:
     - name: check out nkantar.com repo
       uses: actions/checkout@v2
       with:
-        repository: nkantar.nkantar.com
+        repository: nkantar/nkantar.com
         path: nk
 
     - name: configure git
