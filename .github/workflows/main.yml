@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Fetch about page source
+    - name: Update from /about page
       run:
         cd $GITHUB_WORKSPACE
         curl -s https://raw.githubusercontent.com/nkantar/nkantar.com/master/input/about/index.md?token=$GITHUB_TOKEN | tail -n +5 > README.md
