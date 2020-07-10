@@ -29,3 +29,5 @@ but
 is probably the best way to get in touch directly.
 If you're here for the pretty pictures, there's always
 [Instagram](https://instagram.com/eatmorealtoids 'eatmorealtoids on Instagram').
+
+<small>Note: If we've never met and you're just "looking to connect", let's not. Nothing personal against you—I just don't have the bandwidth for hollow connections.</small>
