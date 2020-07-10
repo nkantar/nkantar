@@ -13,9 +13,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0  
 
-    - name: Fetch about page source
+    - name: update from /about
       run: |
+        git config --global user.email "nik@nkantar.com"
+        git config --global user.name "Nik Kantar"
+        git config --global github.user "nkantar"
         cd $GITHUB_WORKSPACE
         curl -s https://raw.githubusercontent.com/nkantar/nkantar.com/master/input/about/index.md?token=$GITHUB_TOKEN | tail -n +5 > README.md
         git add README.md
