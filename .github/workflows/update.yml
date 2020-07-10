@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
     - name: check out this repo
       uses: actions/checkout@v2
       with:
@@ -38,7 +39,7 @@ jobs:
     - name: check if there are changes
       run: |
         cd nk
-        GDIFF=`git diff`
+        export GDIFF=`git diff`
 
     - name: add, commit, push
       if: ${{ env.GDIFF }}
