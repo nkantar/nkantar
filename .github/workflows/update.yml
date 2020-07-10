@@ -24,7 +24,7 @@ jobs:
       with:
         repository: nkantar/nkantar.com
         path: nk
-        token: ${{ secrets.GitHub_PAT }}
+        token: ${{ secrets.GH_PAT }}
 
     - name: configure git
       run: |
