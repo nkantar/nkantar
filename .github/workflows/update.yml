@@ -46,6 +46,7 @@ jobs:
     - name: add, commit, push
       if: ${{ env.GDIFF != 'empty' }}
       run: |
+        cd nk
         git add README.md
         git commit -m "Updating" --allow-empty
         git push origin master
