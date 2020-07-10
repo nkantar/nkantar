@@ -1,5 +1,3 @@
----
-title: About
 
 Hi &mdash; I'm **Nik** (or **Nikola**), a human living in gorgeous Southern California.
 
