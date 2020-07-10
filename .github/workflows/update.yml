@@ -22,7 +22,7 @@ jobs:
         git config --global user.name "Nik Kantar"
         git config --global github.user "nkantar"
         cd $GITHUB_WORKSPACE
-        curl -s https://raw.githubusercontent.com/nkantar/nkantar.com/master/input/about/index.md?token=$GITHUB_TOKEN | echo # | tail -n +5 > README.md
+        curl -s https://raw.githubusercontent.com/nkantar/nkantar.com/master/input/about/index.md?token=$GITHUB_TOKEN # | tail -n +5 > README.md
         git add README.md
         git commit -m "Updating" --allow-empty
         git push origin master
