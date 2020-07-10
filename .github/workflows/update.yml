@@ -35,7 +35,7 @@ jobs:
     - name: update README.md from about.md
       run: |
         cp nkc/input/about/index.md nk/README.md
-        tail -n +5 nk/README.md > nk/README.md
+        sed -i '' 4d nk/README.md
 
     - name: add, commit, push
       run: |
