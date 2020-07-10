@@ -42,7 +42,9 @@ jobs:
         export GDIFF=`git diff`
 
     - name: add, commit, push
-      if: ${{ env.GDIFF != "" }}
+      env:
+        EMPTY_STRING: ""
+      if: ${{ env.GDIFF != env.EMPTY_STRING }}
       run: |
         git add README.md
         git commit -m "Updating" --allow-empty
