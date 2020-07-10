@@ -24,6 +24,7 @@ jobs:
       with:
         repository: nkantar/nkantar.com
         path: nk
+        ref: master
 
     - name: configure git
       run: |
