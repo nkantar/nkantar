@@ -16,14 +16,14 @@ jobs:
     - name: check out this repo
       uses: actions/checkout@v2
       with:
-        path: main
+        path: nk
         fetch-depth: 0
 
     - name: check out nkantar.com repo
       uses: actions/checkout@v2
       with:
         repository: nkantar/nkantar.com
-        path: nk
+        path: nkc
         token: ${{ secrets.GH_PAT }}
 
     - name: configure git
@@ -34,11 +34,12 @@ jobs:
     
     - name: update README.md from about.md
       run: |
-        cp nk/input/about/index.md main/README.md
+        cp nkc/input/about/index.md nk/README.md
         # | tail -n +5 > README.md
 
     - name: add, commit, push
       run: |
+        cd nk
         git add README.md
         git commit -m "Updating" --allow-empty
         git push origin master
