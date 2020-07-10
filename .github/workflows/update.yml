@@ -38,13 +38,13 @@ jobs:
 
     - name: check if there are changes
       env:
-        GDIFF: empty
+        GDIFF:
       run: |
         cd nk
         export GDIFF=`git diff`
 
     - name: add, commit, push
-      if: ${{ env.GDIFF != 'empty' }}
+      if: ${{ env.GDIFF != '' }}
       run: |
         cd nk
         git add README.md
