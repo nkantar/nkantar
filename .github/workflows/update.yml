@@ -12,19 +12,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0  
 
-    - name: update from /about
+    - name: check out this repo
+      uses: actions/checkout@v2
+      with:
+        path: main
+        fetch-depth: 0
+
+    - name: check out nkantar.com repo
+      uses: actions/checkout@v2
+      with:
+        repository: nkantar.nkantar.com
+        path: nk
+
+    - name: configure git
       run: |
         git config --global user.email "nik@nkantar.com"
         git config --global user.name "Nik Kantar"
         git config --global github.user "nkantar"
-        cd $GITHUB_WORKSPACE
-        curl -s https://raw.githubusercontent.com/nkantar/nkantar.com/master/input/about/index.md?token=$GITHUB_TOKEN > about.md
-        cat about.md
+    
+    - name: update README.md from about.md
+      run: |
+        cp nk/input/about/index.md main/README.md
         # | tail -n +5 > README.md
-        #git add README.md
-        #git commit -m "Updating" --allow-empty
-        #git push origin master
+        git add README.md
+        git commit -m "Updating" --allow-empty
+        git push origin master
