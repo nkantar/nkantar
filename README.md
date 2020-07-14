@@ -1,4 +1,3 @@
-
 Hi—I’m **Nik** (or **Nikola**). I'm a human living in wonderful Los Angeles, California.
 
 I was born and raised in what is today Bosnia and Herzegovina, but have called the Golden State home since 2002. I quite like it here.
