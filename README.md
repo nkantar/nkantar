@@ -2,7 +2,8 @@
 
 What have _you_ broken today? :fire:
 
-Jokes aside, while there’s more about me on [nkantar.com]—namely my [blog]—here is a quick rundown of what I’m working on in my spare time these days.
+Jokes aside, there’s more about me on [**nkantar.com**] (namely my [**blog**]) and sometimes I tweet as [**@nkantar**].
+What follows here is a v. quick rundown of what I’m working on in my spare time these days.
 
 I’m currently mainly focusing on :fountain_pen: [**Microblot**], a platform for microblogging via chat.
 
@@ -18,8 +19,9 @@ I also maintain a few other projects (in no particular order):
 There’s more here, but it’s probably not really all that interesting. :grin:
 
 
-[nkantar.com]: https://nkantar.com "Nik Kantar"
-[blog]: https://www.nkantar.com/blog/ "Blog | Nik Kantar"
+[**nkantar.com**]: https://nkantar.com "Nik Kantar"
+[**blog**]: https://www.nkantar.com/blog/ "Blog | Nik Kantar"
+[**@nkantar**]: https://twitter.com/nkantar "Nik Kantar (@kantar) / Twitter"
 [**Microblot**]: https://github.com/nkantar/Microblot "nkantar/Microblot on GitHub"
 [**Autohook**]: https://github.com/Autohook/Autohook "Autohook/Autohook on GitHub"
 [**Parsenvy**]: https://github.com/nkantar/Parsenvy "nkantar/Parsenvy on GitHub"
