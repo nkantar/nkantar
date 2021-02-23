@@ -12,7 +12,7 @@ I also maintain a few other projects (in no particular order):
 - :snake: [**Parsenvy**](https://github.com/nkantar/Parsenvy "nkantar/Parsenvy on GitHub") is a Python environment variable parsing library.
 - :star: [**Starminder**](https://github.com/nkantar/Starminder "nkantar/Starminder on GitHub") ([site](https://starminder.xyz "Starminder")) reminds you of GitHub projects you’ve starred.
 - :control_knobs: [**The Mix Never Dies**](https://github.com/nkantar/TheMixNeverDies.com "nkantar/TheMixNeverDies.com on GitHub") ([site](https://themixneverdies.com "The Mix Never Dies")) is an archive of songs I’ve liked on Spotify.
-- :classical_building: [**pep20.org**](https://pep20.org "PEP 20 ~ The Zen of Python") is a website dedicated to one of my favorite things about Python.
+- :classical_building: [**pep20.org**](https://github.com/nkantar/pep20.org "nkantar/pep20.org on GitHub") ([site](https://pep20.org "PEP 20 ~ The Zen of Python")) is a website dedicated to one of my favorite things about Python.
 - :link: [**sus**](https://github.com/nkantar/sus "nkantar/sus on GitHub") is a static redirect generator.
 
 There’s more here, but it’s probably not really all that interesting. :grin:
