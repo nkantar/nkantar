@@ -2,7 +2,7 @@
 
 What have _you_ broken today? :fire:
 
-While there’s more about me on [nkantar.com](https://nkantar.com "Nik Kantar")—namely my [blog](https://www.nkantar.com/blog/ "Blog | Nik Kantar")—below is a quick rundown of what I’m working on in my spare time these days.
+Jokes aside, while there’s more about me on [nkantar.com](https://nkantar.com "Nik Kantar")—namely my [blog](https://www.nkantar.com/blog/ "Blog | Nik Kantar")—below is a quick rundown of what I’m working on in my spare time these days.
 
 I’m currently mainly focusing on :fountain_pen: [**Microblot**](https://github.com/nkantar/Microblot "nkantar/Microblot on GitHub"), a platform for microblogging via chat.
 
