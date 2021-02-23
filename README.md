@@ -9,12 +9,12 @@ I’m currently mainly focusing on :fountain_pen: [**Microblot**], a platform fo
 
 I also maintain a few other projects (in no particular order):
 
-- :octocat: [**Autohook**] is a tiny Git hook manager.
 - :snake: [**Parsenvy**] ([docs][parsedocs], [package][parsepackage]) is a Python environment variable parsing library.
+- :octocat: [**Autohook**] is a tiny Git hook manager.
 - :star: [**Starminder**] ([site][star]) reminds you of GitHub projects you’ve starred.
-- :control_knobs: [**The Mix Never Dies**] ([site][tmnd]) is an archive of songs I’ve liked on Spotify.
-- :classical_building: [**pep20.org**] ([site][pep20]) is a website dedicated to one of my favorite things about Python.
 - :link: [**sus**] is a static redirect generator.
+- :classical_building: [**pep20.org**] ([site][pep20]) is a website dedicated to one of my favorite things about Python.
+- :control_knobs: [**The Mix Never Dies**] ([site][tmnd]) is an archive of songs I’ve liked on Spotify.
 
 There’s more here, but it’s probably not really all that interesting. :grin:
 
