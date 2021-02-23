@@ -9,7 +9,7 @@ I’m currently mainly focusing on :fountain_pen: [**Microblot**], a platform fo
 I also maintain a few other projects (in no particular order):
 
 - :octocat: [**Autohook**] is a tiny Git hook manager.
-- :snake: [**Parsenvy**] is a Python environment variable parsing library.
+- :snake: [**Parsenvy**] ([docs][parsedocs], [package][parsepackage]) is a Python environment variable parsing library.
 - :star: [**Starminder**] ([site][star]) reminds you of GitHub projects you’ve starred.
 - :control_knobs: [**The Mix Never Dies**] ([site][tmnd]) is an archive of songs I’ve liked on Spotify.
 - :classical_building: [**pep20.org**] ([site][pep20]) is a website dedicated to one of my favorite things about Python.
@@ -23,6 +23,8 @@ There’s more here, but it’s probably not really all that interesting. :grin:
 [**Microblot**]: https://github.com/nkantar/Microblot "nkantar/Microblot on GitHub"
 [**Autohook**]: https://github.com/Autohook/Autohook "Autohook/Autohook on GitHub"
 [**Parsenvy**]: https://github.com/nkantar/Parsenvy "nkantar/Parsenvy on GitHub"
+[parsedocs]: https://parsenvy.readthedocs.io/en/latest/ "Parsenvy documentation"
+[parsepackage]: https://pypi.org/project/parsenvy/ "parsenvy · PyPI"
 [**Starminder**]: https://github.com/nkantar/Starminder "nkantar/Starminder on GitHub"
 [star]: https://starminder.xyz "Starminder"
 [**The Mix Never Dies**]: https://github.com/nkantar/TheMixNeverDies.com "nkantar/TheMixNeverDies.com on GitHub"
