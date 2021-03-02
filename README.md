@@ -2,7 +2,7 @@
 
 What have _you_ broken today? :fire:
 
-Jokes aside, there’s more from me on [**nkantar.com**] (namely the [**blog**]), sometimes I tweet as [**@nkantar**], and I'm supposedly running a [**newsletter**].
+Jokes aside, there’s more from me on [**nkantar.com**] (namely the [**blog**]), sometimes I tweet as [**@nkantar**], and I supposedly run a [**newsletter**].
 What follows here is just a v. quick rundown of what I’m working on in my spare time these days.
 
 I’m currently mainly focusing on :fountain_pen: [**Microblot**], a platform for microblogging via chat.
