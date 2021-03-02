@@ -2,7 +2,7 @@
 
 What have _you_ broken today? :fire:
 
-Jokes aside, there’s more from me on [**nkantar.com**] (namely the [**blog**]) and sometimes I tweet as [**@nkantar**].
+Jokes aside, there’s more from me on [**nkantar.com**] (namely the [**blog**]), sometimes I tweet as [**@nkantar**], and I'm supposedly running a [**newsletter**].
 What follows here is just a v. quick rundown of what I’m working on in my spare time these days.
 
 I’m currently mainly focusing on :fountain_pen: [**Microblot**], a platform for microblogging via chat.
@@ -22,6 +22,7 @@ There’s more here, but it’s probably not really all that interesting. :grin:
 [**nkantar.com**]: https://nkantar.com "Nik Kantar"
 [**blog**]: https://www.nkantar.com/blog/ "Blog | Nik Kantar"
 [**@nkantar**]: https://twitter.com/nkantar "Nik Kantar (@kantar) / Twitter"
+[**newsletter**]: https://buttondown.email/nkantar "Nik’s Notes"
 [**Microblot**]: https://github.com/nkantar/Microblot "nkantar/Microblot on GitHub"
 [**Autohook**]: https://github.com/Autohook/Autohook "Autohook/Autohook on GitHub"
 [**Parsenvy**]: https://github.com/nkantar/Parsenvy "nkantar/Parsenvy on GitHub"
