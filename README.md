@@ -7,7 +7,7 @@ What follows here is just a v. quick rundown of what I’m working on in my spar
 
 I maintain a few projects (in no particular order):
 
-- :notebook: [**mdut**] ([package][mdutpackage]) is a tiny utilty for Markdown URL tag generation.
+- :notebook: [**mdut**] ([package][mdutpackage], [intro][mdutintro]) is a tiny utilty for Markdown URL tag generation.
 - :snake: [**Parsenvy**] ([docs][parsedocs], [package][parsepackage], [intro][parseintro]) is a Python environment variable parsing library.
 - :octocat: [**Autohook**] ([intro][autointro]) is a tiny Git hook manager.
 - :star: [**Starminder**] ([intro][starintro], [v2][starv2]) reminds you of GitHub projects you’ve starred.
@@ -24,6 +24,7 @@ There’s more here, but it’s probably not really all that interesting. :grin:
 [**newsletter**]: https://buttondown.email/nkantar "Nik’s Notes"
 [**mdut**]: https://github.com/nkantar/mdut/ "GitHub - nkantar/mdut: Markdown URL tag generator"
 [mdutpackage]: https://pypi.org/project/mdut/ "mdut · PyPI"
+[mdutintro]: https://www.nkantar.com/blog/2022/01/introducing-mdut/ "Introducing mdut | Blog | Nik Kantar"
 [**Parsenvy**]: https://github.com/nkantar/Parsenvy "nkantar/Parsenvy on GitHub"
 [parsedocs]: https://parsenvy.readthedocs.io/en/latest/ "Parsenvy documentation"
 [parsepackage]: https://pypi.org/project/parsenvy/ "parsenvy · PyPI"
