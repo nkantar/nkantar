@@ -13,7 +13,6 @@ I maintain a few projects (in no particular order):
 - :star: [**Starminder**] ([intro][starintro], [v2][starv2]) reminds you of GitHub projects you’ve starred.
 - :link: [**sus**] ([package][suspackage], [intro][susintro]) is a static redirect generator.
 - :classical_building: [**pep20.org**] ([site][pep20]) is a website dedicated to one of my favorite things about Python.
-- :control_knobs: [**The Mix Never Dies**] ([site][tmnd]) is an archive of songs I’ve liked on Spotify.
 
 There’s more here, but it’s probably not really all that interesting. :grin:
 
@@ -39,5 +38,3 @@ There’s more here, but it’s probably not really all that interesting. :grin:
 [susintro]: https://nkantar.com/blog/2020/10/introducing-sus/ "Introducing sus | Blog | Nik Kantar"
 [**pep20.org**]: https://github.com/nkantar/pep20.org "nkantar/pep20.org on GitHub"
 [pep20]: https://pep20.org "PEP 20 ~ The Zen of Python"
-[**The Mix Never Dies**]: https://github.com/nkantar/TheMixNeverDies.com "nkantar/TheMixNeverDies.com on GitHub"
-[tmnd]: https://themixneverdies.com "The Mix Never Dies"
