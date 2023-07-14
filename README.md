@@ -18,7 +18,7 @@ There’s more here, but it’s probably not really all that interesting. :grin:
 
 [**nkantar.com**]: https://nkantar.com "Nik Kantar"
 [**blog**]: https://www.nkantar.com/blog/ "Blog | Nik Kantar"
-[**@nik@nkantar.social**]: https://nakntar.social/@nik "Nik Kantar (@nik@nkantar.social) - Mastodon"
+[**@nik@nkantar.social**]: https://nkantar.social/@nik "Nik Kantar (@nik@nkantar.social) - Mastodon"
 [**@nkantar**]: https://twitter.com/nkantar "Nik Kantar (@kantar) / Twitter"
 [**newsletter**]: https://buttondown.email/nkantar "Nik’s Notes"
 [**mdut**]: https://github.com/nkantar/mdut/ "GitHub - nkantar/mdut: Markdown URL tag generator"
