@@ -1,5 +1,7 @@
 # Hi, I’m Nik.
 
+## Hi! 👋 I’m currently looking for my next role, and you can read more about that [here](https://nkantar.com/blog/2023/08/hire-me-v202308/ "Hire Me! (v.2023.08) | Blog | Nik Kantar"). 
+
 What have _you_ broken today? :fire:
 
 Jokes aside, there’s more from me on :house_with_garden: [**nkantar.com**] (namely the :fountain_pen: [**blog**]), and I sometimes toot as :elephant: [**@nik@nkantar.social**] and tweet as :bird: [**@nkantar**].
