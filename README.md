@@ -4,7 +4,7 @@
 
 What have _you_ broken today? :fire:
 
-Jokes aside, there’s more from me on :house_with_garden: [**nkantar.com**] (namely the :fountain_pen: [**blog**]), and I sometimes toot as :elephant: [**@nik@nkantar.social**] and tweet as :bird: [**@nkantar**].
+Jokes aside, there’s more from me on :house_with_garden: [**nkantar.com**] (namely the :fountain_pen: [**blog**]), and I sometimes toot as :elephant: [**@nik@nkantar.social**].
 What follows here is just a v. quick rundown of what I’m working on in my spare time these days.
 
 I maintain a few projects (in no particular order):
@@ -22,7 +22,6 @@ There’s more here, but it’s probably not really all that interesting. :grin:
 [**nkantar.com**]: https://nkantar.com "Nik Kantar"
 [**blog**]: https://www.nkantar.com/blog/ "Blog | Nik Kantar"
 [**@nik@nkantar.social**]: https://nkantar.social/@nik "Nik Kantar (@nik@nkantar.social) - Mastodon"
-[**@nkantar**]: https://twitter.com/nkantar "Nik Kantar (@kantar) / Twitter"
 [**newsletter**]: https://buttondown.email/nkantar "Nik’s Notes"
 [**emojidon**]: https://github.com/nkantar/emojidon/ "nkantar/emojidon: Emoji synchronizer for Mastodon"
 [**mdut**]: https://github.com/nkantar/mdut/ "GitHub - nkantar/mdut: Markdown URL tag generator"
