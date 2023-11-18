@@ -9,6 +9,7 @@ What follows here is just a v. quick rundown of what I’m working on in my spar
 
 I maintain a few projects (in no particular order):
 
+- :elephant: [**emojidon**] is an emoji synchronizer for Mastodon.
 - :notebook: [**mdut**] ([package][mdutpackage], [intro][mdutintro]) is a tiny utilty for Markdown URL tag generation.
 - :snake: [**Parsenvy**] ([docs][parsedocs], [package][parsepackage], [intro][parseintro]) is a Python environment variable parsing library.
 - :octocat: [**Autohook**] ([intro][autointro]) is a tiny Git hook manager.
@@ -23,6 +24,7 @@ There’s more here, but it’s probably not really all that interesting. :grin:
 [**@nik@nkantar.social**]: https://nkantar.social/@nik "Nik Kantar (@nik@nkantar.social) - Mastodon"
 [**@nkantar**]: https://twitter.com/nkantar "Nik Kantar (@kantar) / Twitter"
 [**newsletter**]: https://buttondown.email/nkantar "Nik’s Notes"
+[**emojidon**]: https://github.com/nkantar/emojidon/ "nkantar/emojidon: Emoji synchronizer for Mastodon"
 [**mdut**]: https://github.com/nkantar/mdut/ "GitHub - nkantar/mdut: Markdown URL tag generator"
 [mdutpackage]: https://pypi.org/project/mdut/ "mdut · PyPI"
 [mdutintro]: https://www.nkantar.com/blog/2022/01/introducing-mdut/ "Introducing mdut | Blog | Nik Kantar"
